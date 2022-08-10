@@ -21,3 +21,13 @@ If it's a string but not a path, program will crash.
 I thought it will be cool but it wasn't. Who could have knew that cv2 has a built in function for it? 
 
 But the main reason behind this project was learning how to use github and it's already in github now so I won't take it down back.
+
+# Maybe an example?
+
+![robert](https://user-images.githubusercontent.com/77689346/183890251-b6b5da09-27a4-42fd-812c-6c005840b6df.jpg)
+
+![output](https://user-images.githubusercontent.com/77689346/183890268-63137ecd-1d48-42bd-a86e-8f4e933fe1aa.jpg)
+
+## Background cropped?
+
+![output2](https://user-images.githubusercontent.com/77689346/183890335-0fc906ed-5208-4b61-bcec-fa2f1446114f.jpg)
