@@ -1,2 +1,4 @@
 LICENSE
 tests/
+src/__pycache__
+src/interfaces/__pycache__
